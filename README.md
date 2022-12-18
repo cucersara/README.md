@@ -32,7 +32,7 @@
   
   <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=cucerdariancatalin&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=cucersara&&style=flat-square" align="center" />
 
 </div> 
 
